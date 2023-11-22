@@ -1,0 +1,11 @@
+.checkBox{
+    appearance: none;
+    transform: scale(1.3);
+    background-color: white;
+}
+
+.checkBox
+
+.checkBox:hover{
+    cursor: pointer;
+}

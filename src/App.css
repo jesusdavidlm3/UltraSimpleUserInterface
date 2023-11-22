@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.header{
+  text-align: center;
+  margin: 0px;
+}
+
+header h1{
+  margin: 0px;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  overflow: scroll;
+}
+
+.showContainer{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.textfields{
+  display: flex;
+  flex-direction: column;
+  
+}
