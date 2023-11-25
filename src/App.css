@@ -28,6 +28,7 @@ header h1{
   display: flex;
   flex-direction: row;
   gap: 15px;
+  align-self: center;
 }
 
 .buttons{
