@@ -42,5 +42,17 @@ header h1{
 .textfields{
   display: flex;
   flex-direction: column;
-  
+}
+
+.titles{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.titles .showContainer{
+  display: flex;
+  flex-direction: column;
 }

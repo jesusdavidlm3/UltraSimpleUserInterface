@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+    .white{
+        color: white;
+        font-family: 'Quicksand', sans-serif;
+    }
+
+    .black{
+        color: black;
+        font-family: 'Quicksand', sans-serif;
+
+    }
